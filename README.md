@@ -6,7 +6,7 @@ Aquest repositori conté el codi del projecte de la Pràctica 1: Web scraping de
 
 ## Equip
 
-La pràctica ha estat realitzada dindividualment per Joan Cueva Moreno.
+La pràctica ha estat realitzada individualment per Joan Cueva Moreno.
 
 ## Estructura de carpetes
 
