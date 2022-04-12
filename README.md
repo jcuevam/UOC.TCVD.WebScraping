@@ -36,4 +36,7 @@ src/output: CSV generat amb l'execució del programa.
 
 pdf: Conté el pdf amb les respostes a les preguntes de l'enunciat.
 
+## Dataset
 
+Es pot consultar un dataset amb dades simulades a Zenodo, amb el DOI 10.5281/zenodo.6456289:
+https://doi.org/10.5281/zenodo.6456300
