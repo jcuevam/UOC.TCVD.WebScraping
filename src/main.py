@@ -1,7 +1,8 @@
 from scraper import Scraper
+from exporter import Exporter
 
-output_file = "dataset.csv"
+scraper = Scraper(False)
+products = scraper.scrape()
 
-scraper = Scraper()
-scraper.scrape()
-#scraper.data2csv(output_file)
+exporter = Exporter("ecc_comics_products.csv")
+exporter.export(products)

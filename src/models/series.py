@@ -1,6 +1,6 @@
 class Series:
 
-    def __init__(self, name, link, comics):
+    def __init__(self, name, link, products):
         self.name = name.replace("/", "-") \
             .replace(":", "-") \
             .replace("?", "") \
@@ -10,4 +10,4 @@ class Series:
             .replace("\"", "''") \
             .replace("|", "''")
         self.link = link
-        self.comics = comics
+        self.products = products
